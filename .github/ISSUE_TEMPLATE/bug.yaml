@@ -1,0 +1,26 @@
+name: Bug Report
+description: Report a bug encountered
+labels: ["bug", "pending-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you very much for opening a bug report at awesome-templ.
+
+        before opening the issue we recommend that you read our [contribution guide](https://github.com/templ-go/awesome-templ/blob/main/CONTRIBUTING.md), there we talk about how you can contribute to awesome-templ.
+  - type: checkboxes
+    id: confirm-search
+    attributes:
+      label: Search first
+      description: Please search [existing issues](https://github.com/templ-go/awesome-templ/issues) before reporting.
+      options:
+        - label: I searched and no similar issues were found
+          required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What Happened?
+      description: |
+        Please provide as much info as possible. Not doing so may result in your bug not being addressed in a timely manner.
+    validations:
+      required: true
