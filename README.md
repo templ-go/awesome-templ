@@ -28,7 +28,7 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 
 ## SEO
 
-- [teseo](https://github.com/indaco/teseo/) - Go templ components for SEO
+- [teseo](https://github.com/indaco/teseo/) - Go templ components for SEO.
 
 ## Translation
 
