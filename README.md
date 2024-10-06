@@ -14,6 +14,11 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 
 - [Awesome Templ](#awesome-templ)
   - [Contents](#contents)
+  - [CSS](#css)
+  - [SEO](#seo)
+  - [Translation](#translation)
+  - [Validation](#validation)
+  - [Acknowledgements](#acknowledgements)
 
 **[⬆ back to top](#contents)**
 
