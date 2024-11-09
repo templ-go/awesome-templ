@@ -35,6 +35,7 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 ## Example Applications
 
 - [Go, Echo, Templ Todo App](https://github.com/emarifer/go-echo-templ-htmx) - A simple todo app built with Go, Echo, and Templ that uses HTMX for client-side interactivity.
+- [Islands Demo](https://github.com/romshark/demo-islands/) - An advanced islands of interactivity architecture example built with Go, Templ, HTMX and Shoelace WebComponents.
 
 ## SEO
 
