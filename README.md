@@ -14,7 +14,9 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 
 - [Awesome Templ](#awesome-templ)
   - [Contents](#contents)
+  - [Component Libraries](#component-libraries)
   - [CSS](#css)
+  - [Example Applications](#example-applications)
   - [SEO](#seo)
   - [Translation](#translation)
   - [Validation](#validation)
@@ -22,9 +24,17 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 
 **[⬆ back to top](#contents)**
 
+## Component Libraries
+
+- [Goilerplate](https://github.com/axzilla/goilerplate) - Modern UI Components for Go & Templ inspired by Shadcn/UI.
+
 ## CSS
 
 - [tailwind-merge-go](https://github.com/Oudwins/tailwind-merge-go) - Merge Tailwind CSS classes without style conflicts in Go. Reimplementation in Golang of [tailwind-merge](https://github.com/gjtorikian/tailwind_merge).
+
+## Example Applications
+
+- [Go, Echo, Templ Todo App](https://github.com/emarifer/go-echo-templ-htmx) - A simple todo app built with Go, Echo, and Templ that uses HTMX for client-side interactivity.
 
 ## SEO
 
