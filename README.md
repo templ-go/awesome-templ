@@ -26,7 +26,7 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 
 ## Component Libraries
 
-- [Goilerplate](https://github.com/axzilla/goilerplate) - Modern UI Components for Go & Templ inspired by Shadcn/UI.
+- [templUI](https://github.com/axzilla/templui) - Modern UI Components for Go & Templ inspired by Shadcn/UI.
 
 ## CSS
 
