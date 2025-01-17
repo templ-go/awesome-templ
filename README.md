@@ -24,6 +24,10 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 
 **[⬆ back to top](#contents)**
 
+## Development Tools
+
+- [templier](https://github.com/romshark/templier) - A Go Templ web frontend development environment that automatically rebuilds the server and reloads the tab.
+
 ## Component Libraries
 
 - [templUI](https://github.com/axzilla/templui) - Modern UI Components for Go & Templ inspired by Shadcn/UI.
