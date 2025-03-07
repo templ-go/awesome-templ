@@ -30,7 +30,7 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 
 ## Component Libraries
 
-- [templUI](https://github.com/axzilla/templui) - Modern UI Components for Go & Templ inspired by Shadcn/UI.
+- [templUI](https://github.com/axzilla/templui) - The UI Kit for templ
 
 ## CSS
 
