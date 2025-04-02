@@ -47,7 +47,7 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 
 ## Translation
 
-- [ctxi18n](https://github.com/invopop/ctxi18n/) - Context aware i18n with a short and consise API, pluralization, interpolation, and `fs.FS` support. YAML locale definitions are based on [Rails i18n](https://guides.rubyonrails.org/i18n.html).
+- [ctxi18n](https://github.com/invopop/ctxi18n/) - Context aware i18n with a short and concise API, pluralization, interpolation, and `fs.FS` support. YAML locale definitions are based on [Rails i18n](https://guides.rubyonrails.org/i18n.html).
 
 ## Validation
 
