@@ -49,6 +49,10 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 
 - [ctxi18n](https://github.com/invopop/ctxi18n/) - Context aware i18n with a short and concise API, pluralization, interpolation, and `fs.FS` support. YAML locale definitions are based on [Rails i18n](https://guides.rubyonrails.org/i18n.html).
 
+## UI Components
+
+- [goaster](https://github.com/indaco/goaster) - A configurable and themeable toast notification component for Go web applications.
+
 ## Validation
 
 - [Zog](https://github.com/Oudwins/zog) - A [Zod](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
