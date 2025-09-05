@@ -31,6 +31,7 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 ## Component Libraries
 
 - [templUI](https://github.com/axzilla/templui) - The UI Kit for templ
+- [templ-iconify](https://github.com/ksckaan1/templ-iconify) - Download Icons as Templ Components from Iconify
 
 ## CSS
 
