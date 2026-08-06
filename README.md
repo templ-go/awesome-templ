@@ -30,7 +30,7 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 
 ## Component Libraries
 
-- [templUI](https://github.com/axzilla/templui) - The UI Kit for templ
+- [shadcn-templ](https://github.com/axadrn/shadcn-templ) - 1:1 port of shadcn/ui for Go and templ
 
 ## CSS
 
