@@ -30,6 +30,7 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 
 ## Component Libraries
 
+- [templ-components](https://github.com/LarsArtmann/templ-components) - 137 accessible, CSP-safe server-rendered components with typed props, dark mode, and Tailwind v4 styling.
 - [templUI](https://github.com/axzilla/templui) - The UI Kit for templ
 
 ## CSS
